@@ -11,11 +11,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AndrewML94&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-[![Andrew Lima github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrewML94&bg_color=0d1117&color=00bfbf&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Andrew Lima github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrewML94&bg_color=0d1117&color=00bfbf&line=ffffff&point=ff0000&area=true&hide_border=true)
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/andrewmlima" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href = "mailto:andrewmll94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:andrewmll94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <div align="center">
